@@ -1,5 +1,3 @@
-# Modelo de Regresión Lineal
+# Rusty-Bargain: Optimización de Predicciones del Valor de Autos Usando Modelos de Regresión
 
-En el siguiente proyecto estaré desarrollando un modelo de machine learning para una compañia de petróleo que desea saber cual es el mejor lugar para abrir 200 nuevos pozos. Con este objetivo en mente, estudiaré los beneficios de potenciales ganacias y riesgos de pérdidas, basándome en los datos sobre muestras de crudo en tres regiones distintas y el modelo deberá seleccionar la región con el mayor márgen de beneficio para la empresa.
-
-Estaré trabajando en VSCode, mediante un Jupyter Notebook.
+En este proyecto, desarrollaré un modelo de machine learning para una compañía petrolera que busca identificar las ubicaciones óptimas para abrir 200 nuevos pozos. El objetivo es analizar y predecir los beneficios potenciales y los riesgos de pérdidas en tres regiones distintas, basándome en datos de muestras de crudo. El modelo permitirá seleccionar la región que ofrezca el mayor margen de beneficio, ayudando a la empresa a tomar decisiones estratégicas más informadas y rentables.
